@@ -1,4 +1,3 @@
-# srcmid.upsea.cn
-上面这个地址会被显式在网站首页logo中，以上地址
+# www.baidu.com
 
-backtffffester for algotrader
+以上地址有效时会被显式到首页的logo栏目位置，无效时，使用老地址。
